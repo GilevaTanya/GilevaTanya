@@ -9,19 +9,27 @@
 
 ###
 
-Я начинающий специалист по Data Science. \
-Мой путь в it начался с курсов Яндекс Практикум. \
-В настоящий момент мое обучение на курсе завершено и я ищу свою первую работу!
+Я начинающий специалист по Data Science. В настоящий момент я ищу свою первую работу!
 
-> Используемый стек: \
+>Языки и инструменты: \
 Python, Pandas, Matplotlib, Seaborn, NumPy, SciPy, PyTorch, Keras, Scikit-learn, Bootstrap, LightGBM, CatBoost, BERT, Nltk, A/B tests, SQL, PostgreSQL.
 
-За время учебы я решила 16 кейсов (банки, телеком, промышленность, интернет-сервисы и д.р.) \
-Здесь представлены ссылки и краткое описание 6 наиболее интересных из них.
+<p align="left">
+</p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ###
 
+Последние 8 лет моего рабочего стажа были связаны с фармацевтическим рынком. Аналитические задачи в компании решались посредствам работы с данными через Excel. 
+Мне стало ясно, что ручная обработка ежедневно растущих объёмов данных мало эффективна и что работа аналитика мне нравиться больше, чем работа менеджера.
+Поэтому я стала развиваться в направлении аналитики данных и DS пройдя курс специалист по Data Science в Яндекс Практикуме.
+  
+Благодаря прошлому опыту я развила такие качества, как: внимательность к мелочам, целеустремленность, работа с большими объемами данных, поиск нестандартных решений, работа в команде, умение аргументированно донести свою точку зрения. Люблю искать причинно-следственные связи, находить неочевидные закономерности и убеждена, что смогу внести вклад в решение практических задач, объединив аналитические навыки и знания в сфере Data Science. В настоящее время, хочу продолжить развиваться в сфере анализа данных и машинного обучения. 
+  
+<h4 align="left"> За время учебы в Яндекс Практикуме я решила 16 кейсов (банки, телеком, промышленность, интернет-сервисы и д.р.)</h4>
+<h4 align="left"> Ниже представлены ссылки и краткое описание 6 наиболее интересных из них.</h4>
 
+###
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -32,12 +40,3 @@ Python, Pandas, Matplotlib, Seaborn, NumPy, SciPy, PyTorch, Keras, Scikit-learn,
 | 5.   | [Модель для прогнозирования рыночной стоимости автомобиля](https://github.com/GilevaTanya/yandex-practicum-projects/tree/main/model-for-predicting-value-car) | Сервис по продаже автомобилей для привлечения новых клиентов предлагает быстро узнать рыночную стоимость автомобиля (градиентный бустинг, регрессия) | Python, Pandas, seaborn, matplotlib, scikit-learn, LightGBM |
 | 6.   | [Модель для предсказания температуры сплава, для оптимизации процесса производства стали.](https://github.com/GilevaTanya/yandex-practicum-projects/tree/main/model-for-determining-the-temperature-of-the-alloy) | Чтобы оптимизировать производственные расходы, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали за счет контроля температуры сплава (градиентный бустинг, регрессия)| Python, Pandas, Numpy, seaborn, matplotlib, scipy, math, scikit-learn, CatBoost |
 
-
-Последние 8 лет моего рабочего стажа были связаны с фармацевтическим рынком. Аналитические задачи в компании решались посредствам работы с данными через Excel. Для того чтобы ускорить данную работу, я разработала новый подход, который позволил сократить время рассмотрения коммерческих предложений поставщиков и повысить коммерческий результат.
-
-Мне стало ясно, что работа аналитика мне нравиться больше, чем работа менеджера и что ручная обработка ежедневно растущих объёмов данных мало эффективна.
-Поэтому я стала развиваться в направлении аналитики данных и DS пройдя курс специалист по Data Science в Яндекс Практикуме.
-
-Благодаря прошлому опыту я развила такие качества, как: внимательность к мелочам, целеустремленность, работа с большими объемами данных, поиск нестандартных решений, работа в команде, умение аргументированно донести свою точку зрения. Сейчас это хорошо помогает мне в DS.
-
-В настоящее время, хочу продолжить развиваться в сфере анализа данных и машинного обучения. Люблю искать причинно-следственные связи, находить неочевидные закономерности и убеждена, что смогу внести вклад в решение практических задач, объединив аналитические навыки и знания в сфере Data Science.
